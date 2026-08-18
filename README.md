@@ -116,14 +116,7 @@ status:      Open to work 🟢
 
 ## 📊 GitHub Stats
 
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=muhammaddanial135&show_icons=true&theme=dracula&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammaddanial135&layout=compact&theme=dracula&hide_border=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammaddanial135&theme=dracula&hide_border=true" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammaddanial135&theme=react-dark&hide_border=true" />
-</div>
+<div align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=muhammaddanial135&show_icons=true&theme=dracula&hide_border=true&count_private=true" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammaddanial135&layout=compact&theme=dracula&hide_border=true" /> <img src="https://streak-stats.demolab.com/?user=muhammaddanial135&theme=dracula&hide_border=true" /> <img src="https://ghchart.rshah.org/2EA043/muhammaddanial135" alt="muhammaddanial135's contribution graph" /> </div>
 
 ---
 
