@@ -52,7 +52,7 @@ status:      Open to work 🟢
 - Multi-provider payment reconciliation
 - Background notification engine (CSV/Excel bulk push)
 
-[🔗 Live](https://eventos.so) · [📦 Repo](#)
+[🔗 Live](https://eventos.so)
 
 </td>
 <td width="50%" valign="top">
@@ -67,35 +67,28 @@ status:      Open to work 🟢
 - Live fuel price widget
 - WhatsApp buyer-seller contact flow
 
-[🔗 Live](https://fastwheel.pk) · [📦 Repo](#)
+[🔗 Live](https://fastwheel.pk) ·
 
 </td>
 </tr>
 <tr>
+
 <td width="50%" valign="top">
 
 ### 💼 EthicalFreelance
-**⚠️ Needs your input to fill this in**
 
-`[stack TBD]`
+**Freelance marketplace focused on fair opportunities and transparent collaboration.**
 
-- `[feature]`
-- `[feature]`
+`Laravel` `PHP` `JavaScript` `MySQL`
 
-[📦 Repo](#) — *send me the link/details*
+- Freelancer profiles, service listings, and talent discovery
+- Platform features supporting client-freelancer collaboration
+
+[🌐 Live Website](https://ethicalfreelance.com/)
 
 </td>
+
 <td width="50%" valign="top">
-
-### 🦇 HeyBatman
-**⚠️ Needs your input to fill this in**
-
-`[stack TBD]`
-
-- `[feature]`
-- `[feature]`
-
-[📦 Repo](#) — *send me the link/details*
 
 </td>
 </tr>
