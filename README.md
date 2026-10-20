@@ -59,7 +59,7 @@ status: Open to work 🟢
 
 **Event ticketing platform — Somali market**
 
-`Laravel` `MySQL` `Flutter` `WaafiPay` `Somtel/eDahab`
+`Laravel` `MySQL` `WaafiPay` `Somtel/eDahab`
 
 - OTP authentication using phone and email
 - QR-based check-in and ticket validation
